@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "commander": "^3.0.1",
+    "commander": "^3.0.2",
     "debug": "^4.1.1",
     "klaw": "^2.1.1",
     "request": "^2.88.0",
